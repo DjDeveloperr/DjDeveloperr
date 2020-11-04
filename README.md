@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Dj, amateur young programmer. I started programming at the age of 12, with a simple project, Discord bot! I'm 14, turning 15 this year!
+I'm Dj, amateur young programmer. I started programming at the age of 12, with a simple project, Discord bot! I'm 15, turning 16 next year!
 
 - 🔭 I’m currently working on [PokeOne Discord Bot](https://top.gg/bot/473020399060385792), which is an Pokemon RPG right in Discord!
 - 🌱 I’m currently learning Version Control (Git), C#, Unity Game Development
