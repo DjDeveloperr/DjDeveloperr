@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Dj, amateur 15 yo programmer. I started programming at the age of 12, with a simple project, Discord bot!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S54DWQF)
+
 - 🔭 I’m currently working on 
   - [PokeOne Discord Bot](https://top.gg/bot/473020399060385792), which is an Pokemon RPG right in Discord!
   - [Harmony](https://github.com/discord-deno/discord.deno), which is an awesome Discord Lib for [Deno](https://deno.land)!
