@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Dj, amateur 15 yo programmer. I started programming at the age of 12, with a simple project, Discord bot!
+I'm Dj, just another self taught young programmer.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S54DWQF)
 
