@@ -13,4 +13,4 @@ I'm Dj, just another self taught young programmer.
 - 📫 How to reach me: you can't :p
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Idk
-- 💬 Discord: DjDeveloper#7777
+- 💬 Discord: [DjDeveloper#0170](https://discord.com/users/422957901716652033)
