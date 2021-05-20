@@ -1,6 +1,6 @@
 ### Hi, I'm Dj.
 
-Self taught young programmer. I like to create backends, websites, and Discord Bots.
+I like to create backends, websites, and Discord Bots.
 
 ## Projects
 
