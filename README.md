@@ -11,6 +11,4 @@ I primarily use TypeScript and Rust, sometimes Swift, C# or Python too.
 
 You can reach out to me on Discord: [DjDeveloper#7777](https://djdev.deno.dev/discord).
 
-### Support me!
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S54DWQF)
