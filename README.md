@@ -5,9 +5,12 @@ I primarily use TypeScript and Rust, sometimes Swift, C# or Python too.
 
 ### Projects
 
+I keep making new side projects but these are my main ones 😆
+
 - [PokeOne Discord Bot](https://top.gg/bot/473020399060385792)
 - [Harmony](https://github.com/harmonyland/harmony)
-- a lot of side projects.
+- [deno_sqlite](https://github.com/denodrivers/sqlite3)
+- [deno_python](https://github.com/denosaurs/deno_python)
 
 You can reach out to me on Discord: [DjDeveloper#7777](https://djdev.deno.dev/discord).
 
