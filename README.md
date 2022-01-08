@@ -1,6 +1,7 @@
 ### 👋 Hey, I’m Dj
 
 I’m a high schooler, hobby programmer, and an open-source contributor.
+
 I primarily use TypeScript and Rust, sometimes Swift, C# or Python too.
 
 ### Projects
@@ -12,6 +13,7 @@ I keep making new side projects but these are my main ones 😆
 - [deno_sqlite](https://github.com/denodrivers/sqlite3)
 - [deno_python](https://github.com/denosaurs/deno_python)
 
-You can reach out to me on Discord: [DjDeveloper#7777](https://djdev.deno.dev/discord).
+You can reach out to me on Discord: [DjDeveloper#7777](https://djdev.deno.dev/discord) (preferred)
+or via email: [djdeveloperr@gmail.com](mailto:djdeveloperr@gmail.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S54DWQF)
