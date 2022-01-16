@@ -10,8 +10,8 @@ I keep making new side projects but these are my main ones 😆
 
 - [PokeOne Discord Bot](https://top.gg/bot/473020399060385792)
 - [Harmony](https://github.com/harmonyland/harmony)
-- [deno_sqlite](https://github.com/denodrivers/sqlite3)
-- [deno_python](https://github.com/denosaurs/deno_python)
+- [Deno SQLite](https://github.com/denodrivers/sqlite3)
+- [Deno Python](https://github.com/denosaurs/deno_python)
 
 You can reach out to me on Discord: [DjDeveloper#7777](https://djdev.deno.dev/discord) (preferred)
 or via email: [djdeveloperr@gmail.com](mailto:djdeveloperr@gmail.com)
