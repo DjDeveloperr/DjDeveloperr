@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Dj
 
-I’m a high schooler, hobby programmer, and an open-source contributor.
+I’m a high schooler, hobby programmer, and an open-source maintainer & contributor.
 
 I primarily use TypeScript and Rust, sometimes Swift, C# or Python too.
 
