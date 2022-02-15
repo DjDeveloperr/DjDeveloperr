@@ -2,7 +2,7 @@
 
 I’m a hobby programmer and an open-source maintainer & contributor.
 
-I primarily use JavaScriptTypeScript and Rust, sometimes Swift, C#
+I primarily use JavaScript/TypeScript and Rust, sometimes Swift, C#
 or Python too.
 
 ### Projects
