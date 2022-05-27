@@ -16,5 +16,3 @@ I keep making new side projects but these are my main ones 😆
 
 You can reach out to me on Discord: [DjDeveloper#7777](https://djdev.deno.dev/discord) (preferred)
 or via email: [djdeveloperr@gmail.com](mailto:djdeveloperr@gmail.com)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S54DWQF)
