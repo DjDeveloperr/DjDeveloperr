@@ -1,8 +1,6 @@
 ### 👋 Hey, I’m Dj
 
-I’m a hobby programmer currently in high school (last year!).
-
-I maintain some open-source projects and also contribute!
+I’m a hobby programmer. I maintain some open-source projects and also contribute!
 I have authored many modules in the Deno ecosystem.
 Consider sponsoring if you like my work!
 
