@@ -9,5 +9,5 @@ C# or Python too.
 
 You can find some of my recent open-source work in pinned repositories below!
 
-You can reach out to me on Discord: [djdev#7001](https://djdev.deno.dev/discord) (preferred)
-or via email: djdeveloperr [at] gmail [dot] com.
+You can reach out to me on Discord: [djdev#7001](https://djdev.me/discord) (preferred)
+or via email: hey [at] djdev [dot] me.
