@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Dj
 
-I’m a software engineer and an open-source enthusiast.
+I’m a software developer and an open-source enthusiast.
 
 You can find some of my open-source projects in pinned repositories below!
 
