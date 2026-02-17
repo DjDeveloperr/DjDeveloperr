@@ -11,4 +11,4 @@ You can find some of my open-source projects in pinned repositories below!
 
 You can reach out to me on Discord: [djdev](https://djdev.me/discord) or via email: hey@djdev.me
 
-![](https://umami.djdev.me/p/ON0LdVvNb)
+<img src="https://umami.djdev.me/p/ON0LdVvNb" alt="" width="1" height="1">
