@@ -1,11 +1,8 @@
 ### Hi, I’m Dj
 
-I’m a software developer based in Toronto.
+I’m a Software Developer based in Toronto.
 
-I work on the new NativeScript Node-API based runtime, and some apps on the side
-
-- [Umami](https://umamiapp.djdev.me): Website analytics on your phone/iPad
-- [CoreLift](https://corelift.app): Workout and diet tracker
+I'm a member of the NativeScript TSC & work on the NativeScript runtime, plus some apps on the side (like [Umami](https://umamiapp.djdev.me))
 
 You can find some of my open-source projects in pinned repositories below!
 
