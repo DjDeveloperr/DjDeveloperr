@@ -1,9 +1,10 @@
 ### Hi, I’m Dj
 
-I’m a Software Developer based in Toronto & member of NativeScript TSC.
+I’m a Software Developer based in Toronto.
 
-I enjoy systems programming, primarily work on the NativeScript runtime, developer tools & mobile apps.
+I enjoy systems programming, primarily work on Linux kernel, NativeScript runtime, developer tools & mobile apps.
 
+- Co-founder of [Aurora Silicon](https://aurorasilicon.org), porting Linux to Apple Silicon
 - Core maintainer of [the NativeScript Runtime](https://github.com/NativeScript/napi-ios) is a JavaScript runtime with seamless native API interop, supports V8/QuickJS/JSC/Hermes
 - [SimDeck](https://simdeck.sh) is an all-in-one enhanced Simulator developer experience, and streaming infrastructure
 - [Umami](https://umamiapp.djdev.me) & [Rybbit](https://rybbit.djdev.me) analytics viewer for iOS
